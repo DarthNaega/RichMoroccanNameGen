@@ -1,6 +1,5 @@
-# RichMoroccanNameGen
-Generates a random name for a rich Moroccan
-<h1 align="center"> 🚀🚀🚀 Welcome to the Blazing Fast Name Generator 🚀🚀🚀 <\h1>
+
+<h1 align="center">🚀🚀🚀 Welcome to the Blazing Fast Name Generator 🚀🚀🚀<\h1>
 
 Are you tired of wasting your precious time trying to come up with a name for your project or ENAtard friend?? Fear not! Our Blazing Fast Name Generator is here to save the day!
 
