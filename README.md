@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀🚀🚀 Welcome to the Blazing Fast Name Generator 🚀🚀🚀<\h1>
+## 🚀🚀🚀 Welcome to the Blazing Fast Name Generator 🚀🚀🚀
 
 Are you tired of wasting your precious time trying to come up with a name for your project or ENAtard friend?? Fear not! Our Blazing Fast Name Generator is here to save the day!
 
@@ -23,7 +23,7 @@ But don't just take our word for it! Here are some testimonials from our satisfi
 
 So why wait? Give our Blazing Fast ENAtard Name Generator a try and be amazed at the speed, love, and pure awesomeness that it brings to your life! 💖🚀💥
 <br>
-<h2>made with &hearts and hatred to ENA<\h2>
+made with &hearts; and hatred to ENA
 <br>
 ## Used to code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
