@@ -3,18 +3,8 @@ const firstNames = ["Abad", "Abdennasser", "Amghar", "Abbas", "Abdelmoula", "Ami
                    ];
 
 // Last names array
-const lastNames = [
-  "Smith",
-  "Johnson",
-  "Brown",
-  "Wilson",
-  "Davis",
-  "Miller",
-  "Taylor",
-  "Anderson",
-  "Jackson",
-  "Lee",
-];
+const lastNames = ["Alaoui", "El Alaoui", "Alami", "El Alami", "Bennani", "Benani", "Idrissi", "El Idrissi", "Benjelloun", "Benchekroun", "Tahiri", "Tazi", "Ettazi", "Benkirane", "Belhaj", "Ismaili", "Taibi", "El Mahdi", "Bensouda", "Sbaita", "El Fassi", "Cherkaoui", "Bennis", "El Alami", "Hassani", "El Hassani", "Mansouri", "Saadi", "Benmoussa", "Senhaji", "Bouzid", "Sefrioui", "Lahmer", "Ftaichi", "Lazraq"
+                  ];
 
 // Function to generate a random name
 function generateName() {
