@@ -1,0 +1,23 @@
+.container {
+  margin: 20px auto;
+  text-align: center;
+}
+
+#generateBtn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#fullName {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px;
+}
